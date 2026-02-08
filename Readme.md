@@ -115,13 +115,4 @@ java com.starhealth.main.PremiumCalculatorApp
 ## 🤝 Contributing
 
 Contributions are welcome! If you find a bug or want to add a new policy type, please open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
----
-
-**Developed with ❤️ for the BFSI Sector.**
-
-Would you like me to help you draft a **Senior Citizen Policy** class to see how easily it integrates into this existing structure?
+u draft a **Senior Citizen Policy** class to see how easily it integrates into this existing structure?
